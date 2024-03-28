@@ -1,13 +1,8 @@
-# FINAL PROJECT CMPE 131 - ATM SYSTEM
+# FINAL PROJECT CS 152 - ATM SYSTEM
 
 ## Group members
-- Thien Tran
-- Thi Tran
-- Tien Bui
-- Khoa Le
-- Joey Manivong
-- Octaviano Ortiz
-- Nhat Nguyen
+- Quyen Nguyen
+- Do Tran
 
 ## Description
 
